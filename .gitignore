@@ -5,3 +5,4 @@ __pycache__/
 *.pyc
 config.py
 Streaming_History*.json
+spotify_data.csv
